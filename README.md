@@ -1,1 +1,2 @@
-# crud
+# crud-cypress
+Crud operations
